@@ -1,1 +1,1 @@
-# Card
+This repository contains a collection of simple CSS cards designed for various purposes. Each card is styled using CSS to create visually appealing components that can be easily integrated into web projects. These cards offer a clean and modern design, making them suitable for showcasing content, products, or other information on websites.
